@@ -20,7 +20,8 @@
 ## インストール
 
 ```bash
-git clone <repo>
+git clone git@github.com:ngeojiajun-deriv/mcp-code-snippets.git
+npm run build
 npm link
 ```
 
