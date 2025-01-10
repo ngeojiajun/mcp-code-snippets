@@ -1,0 +1,27 @@
+{
+  "name": "code-snippet-server",
+  "version": "1.0.0",
+  "description": "MCP server to manage code snippets",
+  "main": "build/index.js",
+  "type": "module",
+  "bin": {
+    "code-snippet-server": "build/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "@types/node": "^18.15.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@stylistic/eslint-plugin": "^2.12.1",
+    "eslint": "^9.17.0",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.19.1"
+  }
+}
