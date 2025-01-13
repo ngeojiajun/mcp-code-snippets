@@ -4,6 +4,8 @@
 
 コードスニペットサーバーは、異なるプログラミング言語のコードスニペットを管理および保存するためのModel Context Protocol (MCP)サーバーです。標準化されたサーバーインターフェースを使用して、コードスニペットを柔軟かつ拡張可能な方法で作成、一覧表示、および削除できます。
 
+<a href="https://glama.ai/mcp/servers/qt4j367mfk"><img width="380" height="200" src="https://glama.ai/mcp/servers/qt4j367mfk/badge" alt="Code Snippet Server MCP server" /></a>
+
 ## 機能
 
 - タイトル、言語、コードを使用したコードスニペットの作成
