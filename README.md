@@ -4,6 +4,8 @@
 
 Code Snippet Server is a Model Context Protocol (MCP) server designed to manage and store code snippets across different programming languages. It provides a flexible and extensible way to create, list, and delete code snippets using a standardized server interface.
 
+<a href="https://glama.ai/mcp/servers/qt4j367mfk"><img width="380" height="200" src="https://glama.ai/mcp/servers/qt4j367mfk/badge" alt="Code Snippet Server MCP server" /></a>
+
 ## Features
 
 - Create code snippets with title, language, and code
