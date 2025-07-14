@@ -22,9 +22,11 @@
 ## インストール
 
 ```bash
-git clone git@github.com:ngeojiajun-deriv/mcp-code-snippets.git
+git clone git@github.com:ngeojiajun/mcp-code-snippets.git
 npm run build
 npm link
+# もしくは
+npx @ngeojiajun/code-snippet-server
 ```
 
 ## 使用方法

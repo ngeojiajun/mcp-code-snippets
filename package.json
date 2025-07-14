@@ -1,6 +1,6 @@
 {
-  "name": "code-snippet-server",
-  "version": "1.0.0",
+  "name": "@ngeojiajun/code-snippet-server",
+  "version": "1.0.1",
   "description": "MCP server to manage code snippets",
   "main": "build/index.js",
   "type": "module",

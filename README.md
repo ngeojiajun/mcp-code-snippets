@@ -22,9 +22,11 @@ Code Snippet Server is a Model Context Protocol (MCP) server designed to manage 
 ## Installation
 
 ```bash
-git clone git@github.com:ngeojiajun-deriv/mcp-code-snippets.git
+git clone git@github.com:ngeojiajun/mcp-code-snippets.git
 npm run build
 npm link
+# Or you can do
+npx @ngeojiajun/code-snippet-server
 ```
 
 ## Usage
